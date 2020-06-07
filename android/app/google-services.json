@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "627420468710",
+    "firebase_url": "https://flash-chat-e7cdc.firebaseio.com",
+    "project_id": "flash-chat-e7cdc",
+    "storage_bucket": "flash-chat-e7cdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627420468710:android:b816dab6e6efd1fbc83227",
+        "android_client_info": {
+          "package_name": "com.alextagg.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627420468710-4qvfhsq28ut54pa4ehvvec3m9eaprtts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Ag1DXOP9txV2Gz0h0cUQEAg4RCcCFFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627420468710-4qvfhsq28ut54pa4ehvvec3m9eaprtts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
